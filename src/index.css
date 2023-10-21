@@ -1,0 +1,16 @@
+:root {
+  color-scheme: dark;
+  --primary-font-family: monospace;
+  --primary-theme-color: rgba(42, 172, 42, 0.678);
+  --max-width: 64rem;
+  --element-size: 1rem;
+  --element-spacing: 2rem;
+  --border-radius: 1rem;
+
+}
+
+.body {
+  margin: 0;
+  font-family: var(--primary-font-family);
+  font-size: var(--element-size);
+}
